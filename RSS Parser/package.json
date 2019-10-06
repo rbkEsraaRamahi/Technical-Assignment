@@ -1,0 +1,16 @@
+{
+  "name": "rss-parser",
+  "version": "1.0.0",
+  "description": "We need to implement a new web page that should read the job appotiunities from RSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esraa Ramahi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "rss-parser-browser": "^2.2.2"
+  }
+}
