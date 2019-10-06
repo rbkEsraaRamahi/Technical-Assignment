@@ -12,10 +12,14 @@ Which has the solution for both sorting and reverse functions. for the sorting f
 
 ### Getting Started
 
-To show the output for all the test cases inside the file, open the command line then type
+To show the output for all the test cases inside the file fot the sort function, open the command line then type
 
 ```
-tclsh study.tcl
+tclsh sort.tcl
+```
+And the next command to see the output for the reverse functions
+```
+tclsh reverse.tcl
 ```
 
 ## RSS Parser
